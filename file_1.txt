@@ -6,3 +6,7 @@ int sum = 0;
 
 //logic 
 sum = a + b;
+
+
+//Harshad logic
+int d = a/b
