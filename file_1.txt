@@ -14,3 +14,5 @@ int d = a/b
 //Jaydepe logic
 int e = a * b
 print("d");
+
+print("e");  //Jaydeep added print e
