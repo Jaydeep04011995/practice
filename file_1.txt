@@ -13,3 +13,4 @@ int d = a/b
 
 //Jaydepe logic
 int e = a * b
+print("d");
