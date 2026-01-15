@@ -14,3 +14,10 @@ int d = a/b
 //Jaydepe logic
 int e = a * b
 print("d");
+
+print("e");  //Jaydeep added print e
+
+//final commit code work ok
+
+//developer 2 added
+int f = 0;
