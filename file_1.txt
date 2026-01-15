@@ -3,3 +3,6 @@ int b = 20;  //Form git hub
 
 //inside developer branch
 int sum = 0;
+
+//logic 
+sum = a + b;
