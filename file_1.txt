@@ -10,4 +10,7 @@ sum = a + b;
 
 //Harshad logic
 int d = a/b
+
+//Jaydepe logic
+int e = a * b
 print("d");
